@@ -1,5 +1,5 @@
-# mimi-brute
-### Platformička pro testování úkolů na PRG
+# mimi-brute_oi
+### Platformička pro testování úkolů z PRP
 
 ## co to umi?
 ### * otestovat tvoje reseni uloh z PRG pomoci verejnych zadani (ze zipu z coursewaru)
